@@ -1,0 +1,76 @@
+2026-01-05 00:08:43 | ['Checking host:google.com', 'Resolved IP: 142.250.198.46']
+2026-01-05 00:08:46 | ['Checking host:google.com', 'Resolved IP: 142.250.198.46']
+2026-01-05 00:17:37 | ['Checking host:127.0.0.1', 'Resolved IP: 127.0.0.1', 'P', 'i', 'n', 'g', ':', ' ', 'F', 'A', 'I', 'L', '\n']
+2026-01-05 00:19:38 | ['Checking host:127.0.0.1', 'Resolved IP: 127.0.0.1', 'P', 'i', 'n', 'g', ':', ' ', 'F', 'A', 'I', 'L', '\n']
+2026-01-05 00:22:21 | ['Checking host:google.com', 'Resolved IP: 142.250.198.142', 'P', 'i', 'n', 'g', ':', ' ', 'F', 'A', 'I', 'L', '\n']
+2026-01-05 00:26:27 | ['Checking host:google.com', 'Resolved IP: 142.250.198.46', 'P', 'i', 'n', 'g', ':', ' ', 'F', 'A', 'I', 'L', '\n']
+2026-01-05 00:32:53 | Checking host: localhost
+Resolved IP: 127.0.0.1
+Ping: OK
+Port 22: CLOSED
+Port 80: CLOSED
+Port 443: CLOSED
+Overall status: ONLINE - NO SERVICE
+2026-01-05 00:33:19 | Checking host: localhost
+Resolved IP: 127.0.0.1
+Ping: OK
+Port 22: CLOSED
+Port 80: CLOSED
+Port 443: CLOSED
+Overall status: ONLINE - NO SERVICE
+2026-01-05 00:34:59 | Checking host: google.com
+Resolved IP: 142.250.198.46
+Ping: OK
+Port 22: CLOSED
+Port 80: OPEN
+Port 443: OPEN
+Overall status: ONLINE - SERVICE ACTIVE
+2026-01-05 00:40:43 | Checking host: facebook.com
+Resolved IP: 163.70.158.35
+Ping: OK
+Port 22: CLOSED
+Port 80: OPEN
+Port 443: OPEN
+Overall status: ONLINE - SERVICE ACTIVE
+2026-01-05 00:41:50 | Checking host: hapas.com
+Resolved IP: 52.20.84.62
+Ping: FAIL
+Port 22: CLOSED
+Port 80: OPEN
+Port 443: OPEN
+Overall status: UNREACHABLE
+2026-01-05 00:43:06 | Checking host: youtube.com
+Resolved IP: 142.250.198.46
+Ping: OK
+Port 22: CLOSED
+Port 80: OPEN
+Port 443: OPEN
+Overall status: ONLINE - SERVICE ACTIVE
+2026-01-05 00:43:22 | Checking host: localhost
+Resolved IP: 127.0.0.1
+Ping: OK
+Port 22: CLOSED
+Port 80: CLOSED
+Port 443: CLOSED
+Overall status: ONLINE - NO SERVICE
+2026-01-05 00:49:37 | Checking host: 10.0.0.200
+Resolved IP: 10.0.0.200
+Ping: FAIL
+Port 22: CLOSED
+Port 80: CLOSED
+Port 443: CLOSED
+Overall status: UNREACHABLE
+2026-01-05 00:49:59 | Checking host: 192.168.1.100
+Resolved IP: 192.168.1.100
+Ping: OK
+Port 22: CLOSED
+Port 80: CLOSED
+Port 443: CLOSED
+Overall status: ONLINE - NO SERVICE
+2026-01-05 13:20:32 | Checking host: instagram.com
+Resolved IP: 163.70.158.174
+Ping: OK
+Port 22: CLOSED
+Port 80: OPEN
+Port 443: OPEN
+Overall status: ONLINE - SERVICE ACTIVE

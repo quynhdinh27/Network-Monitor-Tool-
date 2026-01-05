@@ -11,8 +11,8 @@ It performs **ping testing**, **basic port checking**, and **logs results** for 
 - 🖥️ **Graphical User Interface** using Tkinter
 - 🌐 Accepts **IP address or domain name** as input
 - 📡 **Ping check** to determine host availability (OK / FAIL)
-- 🔌 **Common port scanning** (e.g. 80, 443, 22, 21)
-- 📊 Displays **port status** (Open / Closed)
+- 🔌 **Common port scanning** (e.g. 80, 443, 22)
+- 📊 Displays **port status** 
 - 📝 **Automatic logging** of results to a log file
 - ⏱️ Fast and lightweight monitoring tool
 

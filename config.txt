@@ -1,0 +1,4 @@
+PORTS=22,80,443
+TIMEOUT=2
+PING_ENABLED=true
+LOG_FILE=logs/monitor.log
